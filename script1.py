@@ -1,2 +1,2 @@
-print("Beautiful is better than ugly")
-print("Explicit is better than implicit")
+print("Beautiful is better than ugly.Isnt't it")
+print("Explicit is better than implicit.thats perfect")
